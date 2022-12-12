@@ -7,8 +7,7 @@
 + Dersler __Salı ve Perşembe__ günleri  __19:30 - 22:30__ saatleri arasında __(haftada 6 saat)__ yapılacaktır.
 + Kursun toplam süresi 180 saattir.
 + Kurs eğitmeni __Necati Ergin__'dir.
-+ Kursumuzun toplam ücreti KDV dahil 9.500 TL’dir(Peşin ödemede 8.550 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 9.100 TL’dir(Peşin ödemede 8.200 TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz
-
++ Kursumuzun toplam ücreti KDV dahil 9.500 (peşin ödemede 8.550) TL’dir. Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri koşulu ile) KDV dahil 9.100 peşin ödemede 8.200) TL’dir. Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-C-Programlama-Dili-Kursu-24-Ocak-2023-/blob/main/kurs-tan%C4%B1t%C4%B1m%C4%B1.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-C-Programlama-Dili-Kursu-24-Ocak-2023-/blob/main/kurs-i%C3%A7eri%C4%9Fi.md)
