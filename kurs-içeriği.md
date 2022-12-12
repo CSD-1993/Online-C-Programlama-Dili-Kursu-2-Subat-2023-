@@ -1,6 +1,9 @@
 C Programlama Dili Kursu İçeriği
+
 Kursun Tanıtımı
+
 C Programlama Dilinin Genel Tanıtımı
+
 ✅ programlama dillerini birbirinden ayıran kriterler
 ✅ declarative ve imperative diller (declarative & imperative languages)
 ✅ programlama paradigmaları (programming paradigms)
@@ -18,6 +21,7 @@ C Programlama Dilinin Genel Tanıtımı
   ❇️ C ve C++ ilişkisi
 
 Temel Kavramlar
+
 ✅ atom kavramı (tokens)
   ❇️ atom kategorileri (token categories)
   ❇️ anahtar sözcükler (keywords)
