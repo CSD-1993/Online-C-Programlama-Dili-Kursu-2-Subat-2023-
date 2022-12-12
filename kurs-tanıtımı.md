@@ -24,7 +24,7 @@ Dersler hafta içi __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri
 
 
 ## Eğitim İçeriği
-[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-C-Programlama-Dili-24-Mayis-2022/blob/main/kurs-program%C4%B1.md)
+[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-C-Programlama-Dili-Kursu-24-Ocak-2023-/blob/main/kurs-i%C3%A7eri%C4%9Fi.md)
 
 
 
@@ -47,4 +47,4 @@ Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmakt
 ## Kurs Ücreti
 Kurs ücreti __9.500 TL__'dir. Öğrenciler için __9.100 TL__'dir 
 ## Kursa Kayıt Olma
-[Kursa katılım için önce ön kayıt yaptırmalısınız.]( https://us02web.zoom.us/meeting/register/tZAqde-vrDwsHtLSsdb8DJeI9NFaB_WLHGLj)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Kursa katılım için önce ön kayıt yaptırmalısınız.](  https://us06web.zoom.us/meeting/register/tZAqfuiorT4uHNRPH-ZLc-DTJhNVJPizqjgO)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
