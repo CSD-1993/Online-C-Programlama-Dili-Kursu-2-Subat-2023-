@@ -14,4 +14,4 @@
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-C-Programlama-Dili-Kursu-24-Ocak-2023-/blob/main/kurs-i%C3%A7eri%C4%9Fi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-C-Programlama-Dili-Kursu-24-Ocak-2023-/blob/main/SSS.md)
 
-[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZAqde-vrDwsHtLSsdb8DJeI9NFaB_WLHGLj)
+[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.]( https://us06web.zoom.us/meeting/register/tZAqfuiorT4uHNRPH-ZLc-DTJhNVJPizqjgO)
