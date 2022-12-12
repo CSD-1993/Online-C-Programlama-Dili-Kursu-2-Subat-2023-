@@ -440,8 +440,4 @@ C99 Standartları ile Eklenen Önemli Öğeler
 ✅ C11 standartları
 
 C++ içindeki C
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priv
+
