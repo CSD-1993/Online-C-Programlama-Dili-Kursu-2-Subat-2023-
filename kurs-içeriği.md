@@ -14,11 +14,11 @@ C Programlama Dilinin Genel Tanıtımı
 ✅ C dilinin kullanım alanları
 ✅ C dilinin temel özellikleri
 ✅ C dilinin tarihsel gelişimi ve C Standartları (history of C language & C Standards)
-  ❇️ Klasik C
-  ❇️ C89
-  ❇️ C99
-  ❇️ C11
-  ❇️ C ve C++ ilişkisi
+❇️ Klasik C
+❇️ C89
+❇️ C99
+❇️ C11
+❇️ C ve C++ ilişkisi
 
 Temel Kavramlar
 
