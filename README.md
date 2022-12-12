@@ -10,8 +10,8 @@
 + Kursumuzun toplam ücreti KDV dahil 9.500 TL’dir(Peşin ödemede 8.550 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 9.100 TL’dir(Peşin ödemede 8.200 TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz
 
 ## Kursla ilgili bağlantılar:
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-C-Programlama-Dili-24-Mayis-2022/blob/main/kurs-tan%C4%B1t%C4%B1m%C4%B1.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-C-Programlama-Dili-24-Mayis-2022/blob/main/kurs-program%C4%B1.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-C-Programlama-Dili-24-Mayis-2022/blob/main/SSS.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-C-Programlama-Dili-Kursu-24-Ocak-2023-/blob/main/kurs-tan%C4%B1t%C4%B1m%C4%B1.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-C-Programlama-Dili-Kursu-24-Ocak-2023-/blob/main/kurs-i%C3%A7eri%C4%9Fi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-C-Programlama-Dili-Kursu-24-Ocak-2023-/blob/main/SSS.md)
 
 [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZAqde-vrDwsHtLSsdb8DJeI9NFaB_WLHGLj)
