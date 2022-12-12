@@ -4,10 +4,10 @@ Kursun Tanıtımı
 
 C Programlama Dilinin Genel Tanıtımı
 
-✅ programlama dillerini birbirinden ayıran kriterler
-✅ declarative ve imperative diller (declarative & imperative languages)
-✅ programlama paradigmaları (programming paradigms)
-✅ programlama dillerinin seviyesi (level)
+ programlama dillerini birbirinden ayıran kriterler
+declarative ve imperative diller (declarative & imperative languages)
+programlama paradigmaları (programming paradigms)
+programlama dillerinin seviyesi (level)
 ✅ mülkiyet (proprietary languages)
 ✅ statik ve dinamik tür kavramları (static typing vs. dynamic typing)
 ✅ prosedürel programlama ve C dili (procedural programming & C language)
