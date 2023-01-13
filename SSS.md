@@ -1,6 +1,6 @@
 # Online C Programlama Dili Kursu – Sık Sorulan Sorular
 
-Aşağıda `Kaan Aslan` tarafından verilen `Online C Programlama Dili Kursu` ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
+Aşağıda `Necati Ergin` tarafından verilen `Online C Programlama Dili Kursu` ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. Çok uzun süredir bu konuda eğitim veren bir eğitmen olarak online kursun bir dezavantaj oluşturmadığını görüyorum. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
@@ -11,7 +11,7 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile `Vimeo` üzerinden izleyebilirsiniz.
 
-### 180 saatlik bir kurs süresi çok uzun değil mi?
+### 200 saatlik bir kurs süresi çok uzun değil mi?
 Eğitim içeriği göz önüne alındığında `180` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebilirim. Bu kursu tamamlayanlar `180` saatlik `C++ Eğitimi` kursuna katılmaya aday olurlar.
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
