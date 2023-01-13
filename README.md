@@ -5,7 +5,7 @@
 + Kurs __2 Şubat 2023__ tarihinde başlayacaktır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Dersler __Salı ve Perşembe__ günleri  __19:30 - 22:30__ saatleri arasında __(haftada 6 saat)__ yapılacaktır.
-+ Kursun toplam süresi  __200 __ saattir.
++ Kursun toplam süresi  __200__ saattir.
 + Kurs eğitmeni __Necati Ergin__'dir.
 + Kursumuzun toplam ücreti KDV dahil  9.500  (peşin ödemede  8.600 ) TL’dir. Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri koşulu ile) KDV dahil  9.100 (peşin ödemede  8.200) TL’dir. Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 ## Kursla ilgili bağlantılar:
