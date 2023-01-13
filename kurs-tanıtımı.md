@@ -17,7 +17,7 @@
 Bu eğitim programına katılabilmek için öğrencilerin daha önce bir programlama dilinde uygulama yapmış olması ya da derneğimizde "Programlamaya Giriş" kursuna katılmış olması gerekmektedir.
 
 ## Kurs Süresi
-Eğitimin toplam süresi __180__ saattir. 
+Eğitimin toplam süresi __200__ saattir. 
 
 ## Ders Günleri ve Saatleri
 Dersler hafta içi __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri arasında __3'er saat__ olarak yapılacaktır.
@@ -45,6 +45,6 @@ Dersler hafta içi __Salı ve Perşembe__ günleri  __19.30 – 22.30__ saatleri
 Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmaktadır. Derste yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github_ üzerinden paylaşılmaktadır.
 
 ## Kurs Ücreti
-Kurs ücreti __8.800 TL__'dir. Öğrenciler için __8.100 TL__'dir 
+Kurs ücreti __9.500 TL__'dir. Öğrenciler için __9.100 TL__'dir 
 ## Kursa Kayıt Olma
 [Kursa katılım için önce ön kayıt yaptırmalısınız.](  https://us06web.zoom.us/meeting/register/tZAqfuiorT4uHNRPH-ZLc-DTJhNVJPizqjgO)  Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız.
