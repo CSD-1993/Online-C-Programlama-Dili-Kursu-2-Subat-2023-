@@ -12,7 +12,7 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile `Vimeo` üzerinden izleyebilirsiniz.
 
 ### 200 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında `180` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebilirim. Bu kursu tamamlayanlar `180` saatlik `C++ Eğitimi` kursuna katılmaya aday olurlar.
+Eğitim içeriği göz önüne alındığında `200` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebilirim. Bu kursu tamamlayanlar `180` saatlik `C++ Eğitimi` kursuna katılmaya aday olurlar.
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Tabi ki. `Online C Programlama Dili` kursunun katılımcıları arasında yurt dışında çalışan ya da okuyan çok sayıda kişi bulunmakta.
